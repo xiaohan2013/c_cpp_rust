@@ -1,0 +1,6 @@
+kafka-rs
+paxos
+etcd-rs
+kafka/kafka-rust
+kafka/target
+librdkafka
